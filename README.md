@@ -23,6 +23,8 @@ It combines document embeddings, retrieval mechanisms, and conversational AI cap
 - **OpenAI GPT Models**
 - **Pinecone**
 - **Streamlit**
+- **selenium**
+- **bs4**
 
 ---
 
@@ -39,6 +41,8 @@ pip install openai
 pip install pinecone-client
 pip install python-dotenv
 pip install streamlit
+pip install selenium
+pip install bs4
 ```
 
 ---
