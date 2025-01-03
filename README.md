@@ -14,7 +14,6 @@ It combines document embeddings, retrieval mechanisms, and conversational AI cap
 - ✅ **Natural Language Interaction:** Ask questions about SJSU instructors.  
 - ✅ **Pinecone Vector Database:** Stores and queries instructor data efficiently.  
 - ✅ **Conversational Context Awareness:** Maintains chat history for better follow-up interactions.  
-- ✅ **Flexible Data Loading:** Supports `.txt` and `.csv` files for dynamic data input.  
 
 ---
 
